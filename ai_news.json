@@ -1,1 +1,33 @@
-[{"rss":"Overcooked? Why robotic pizza makers are failing","emoji":"🤖","type":"company","title":"Robots Struggle to Make Perfect Pizzas","story":"PZZA wanted to use robots to make their pizzas faster. But the robots made pizzas that were too crispy or not cooked enough!","storyBig":"PZZA's attempt to automate pizza production with robots has encountered significant setbacks, as the machines fail to achieve consistent quality. This has led to a loss of confidence in their ability to replace human chefs entirely.","think":"Why do you think robots sometimes have trouble doing human jobs?","bull":"Robots might still learn to make better pizzas in the future.","bear":"Using robots could lead to less tasty pizzas for now.","impacts":{"PZZA":-5,"ROBO":-3}},{"rss":"I was spending £700 a month: How I beat my late-night shopping addiction","emoji":"🛍️","type":"industry","title":"Late-Night Shopping: A Tricky Habit","story":"Many people like to shop late at night, but it can be hard to stop! Learning to control spending is important for saving money.","storyBig":"Impulse shopping, especially during late-night hours, has become a growing trend, leading to increased consumer debt. By adopting mindful spending habits, individuals can better manage their finances and avoid unnecessary expenses.","think":"What are some ways you can save your money instead of spending it?","bull":"Learning to save means you can buy something you really want later.","bear":"Spending too much now means less money for important things.","impacts":{"APPS":4,"JUCE":2}}]
+[
+    {
+        "rss": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "emoji": "📈",
+        "type": "industry",
+        "title": "Why Prices Might Go Up",
+        "story": "If things are costing too much, big decision-makers might change how fast money grows to stop prices from rising. This can affect how much you pay for your favorite toys and snacks.",
+        "storyBig": "If inflation continues to be high, policymakers may consider increasing interest rates to control it. This could influence the cost of goods across various sectors, impacting consumer spending.",
+        "think": "Have you noticed any prices going up at your local store?",
+        "bull": "Learning how money supply affects prices can help us make better choices.",
+        "bear": "If interest rates go up, it could make borrowing more expensive.",
+        "impacts": {
+            "FIZZ": 2,
+            "PZZA": 3,
+            "CNDY": 2
+        }
+    },
+    {
+        "rss": "Overcooked? Why robotic pizza makers are failing",
+        "emoji": "🤖",
+        "type": "company",
+        "title": "Robot Pizza Makers Face Challenges",
+        "story": "Pizza-making robots are having a tough time making perfect pizzas. People still like their pizzas made the old-fashioned way, by humans!",
+        "storyBig": "Robotic pizza makers are encountering setbacks, as they struggle to deliver the quality and consistency expected by consumers. This shakes confidence in automation for pizza production.",
+        "think": "Do you think robots could make your favorite meal just as well as a person?",
+        "bull": "Automation can make things faster in the long run.",
+        "bear": "Robots might not always get things right, especially with tricky tasks.",
+        "impacts": {
+            "PZZA": -3,
+            "ROBO": -2
+        }
+    }
+]
