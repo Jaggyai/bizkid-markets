@@ -1,33 +1,32 @@
 [
     {
-        "rss": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "emoji": "📈",
-        "type": "industry",
-        "title": "Why Prices Might Go Up",
-        "story": "If things are costing too much, big decision-makers might change how fast money grows to stop prices from rising. This can affect how much you pay for your favorite toys and snacks.",
-        "storyBig": "If inflation continues to be high, policymakers may consider increasing interest rates to control it. This could influence the cost of goods across various sectors, impacting consumer spending.",
-        "think": "Have you noticed any prices going up at your local store?",
-        "bull": "Learning how money supply affects prices can help us make better choices.",
-        "bear": "If interest rates go up, it could make borrowing more expensive.",
+        "rss": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "emoji": "🤔",
+        "type": "company",
+        "title": "Kids Choose Fair Sharing with Money",
+        "story": "Imagine if your parents gave your sibling more candy than you. How would you feel? It's important to make sure everyone is treated fairly when sharing.",
+        "storyBig": "In families, sometimes money isn't shared equally, leading to feelings of unfairness. It's crucial to discuss and ensure that financial decisions are made fairly to avoid future conflicts.",
+        "think": "How can families make sharing fair for everyone?",
+        "bull": "Fair sharing makes everyone happy.",
+        "bear": "Unfair sharing can cause arguments.",
         "impacts": {
-            "FIZZ": 2,
-            "PZZA": 3,
-            "CNDY": 2
+            "CNDY": 2,
+            "PIZZA": 1
         }
     },
     {
-        "rss": "Overcooked? Why robotic pizza makers are failing",
-        "emoji": "🤖",
-        "type": "company",
-        "title": "Robot Pizza Makers Face Challenges",
-        "story": "Pizza-making robots are having a tough time making perfect pizzas. People still like their pizzas made the old-fashioned way, by humans!",
-        "storyBig": "Robotic pizza makers are encountering setbacks, as they struggle to deliver the quality and consistency expected by consumers. This shakes confidence in automation for pizza production.",
-        "think": "Do you think robots could make your favorite meal just as well as a person?",
-        "bull": "Automation can make things faster in the long run.",
-        "bear": "Robots might not always get things right, especially with tricky tasks.",
+        "rss": "I was spending £700 a month: How I beat my late-night shopping addiction",
+        "emoji": "🛍️",
+        "type": "industry",
+        "title": "Smart Shopping: Avoid Impulse Buys",
+        "story": "Have you ever bought something and later thought, 'Oops, I didn't really need that?' Being a smart shopper means thinking before you buy.",
+        "storyBig": "Impulse shopping can lead to spending more money than planned. By practicing mindful shopping, we can make better financial decisions and avoid unnecessary expenses.",
+        "think": "What helps you decide if you really need something?",
+        "bull": "Smart shopping saves money for fun things later.",
+        "bear": "Buying without thinking can empty your piggy bank.",
         "impacts": {
-            "PZZA": -3,
-            "ROBO": -2
+            "APPS": 3,
+            "BKPK": 2
         }
     }
 ]
