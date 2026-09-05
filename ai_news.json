@@ -1,1 +1,26 @@
-[{"rss":"Stock up on food to prepare for extreme weather, minister says","emoji":"🌧️","type":"industry","title":"Toy Bricks Shortage Due to Storms","story":"Big storms might make it hard to get toy bricks. Kids might want to grab some now before the storm season.","storyBig":"Expected extreme weather conditions are predicted to disrupt the supply chains for toy bricks. This might lead to a shortage in stores, increasing demand and prices.","think":"What would happen if toy bricks aren't available for a while?","bull":"It's a great time to enjoy building with what you have.","bear":"Toy bricks might become more expensive or hard to find.","impacts":{"BLOK":4}},{"rss":"Hospitality and education boosts US job creation in August","emoji":"🏢","type":"industry","title":"New Jobs Bring Fun New Products","story":"Lots of new jobs were added in August. This means there might be more exciting new products for kids soon!","storyBig":"A significant increase in job creation could lead to more innovative products in the market, as companies have more human resources to drive growth.","think":"How can new jobs lead to new toys and games?","bull":"More jobs can mean more ideas and products for kids.","bear":"Not all new jobs might directly affect kids' markets.","impacts":{"PIXL":3,"PLSH":2}}]
+[
+    {
+        "rss": "Stock up on food to prepare for extreme weather, minister says",
+        "emoji": "🌧️",
+        "type": "industry",
+        "title": "Get Ready for Rainy Days!",
+        "story": "The weather is getting rainy and stormy! Some grown-ups say we should get extra cereal and juice just in case. What do you think your family should do?",
+        "storyBig": "With extreme weather events on the horizon, experts are advising families to stock up on essential goods like cereal and juice. The anticipation of these weather patterns could lead to temporary shortages in grocery stores.",
+        "think": "How do you think buying extra cereal and juice helps families during storms?",
+        "bull": "It's smart to be prepared for anything!",
+        "bear": "If too many people buy extra, stores might run out quickly.",
+        "impacts": {"CRNC": 3, "JUCE": 2}
+    },
+    {
+        "rss": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+        "emoji": "🎉",
+        "type": "company",
+        "title": "Birthday Surprises from Companies!",
+        "story": "Some companies give out surprises like free chocolate on your birthday! But you might have to sign up first. Would you like a birthday treat from your favorite candy shop?",
+        "storyBig": "Companies often offer birthday freebies, such as chocolates, to entice customers to sign up for their loyalty programs. While this strategy can drive customer engagement, it's important to understand the marketing tactics involved.",
+        "think": "Why do you think companies give away free treats on your birthday?",
+        "bull": "Free treats make birthdays extra special!",
+        "bear": "Remember, you may need to share some personal info to get the freebies.",
+        "impacts": {"CHOC": 2}
+    }
+]
