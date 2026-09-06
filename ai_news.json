@@ -3,24 +3,24 @@
         "rss": "Stock up on food to prepare for extreme weather, minister says",
         "emoji": "🌧️",
         "type": "industry",
-        "title": "Get Ready for Rainy Days!",
-        "story": "The weather is getting rainy and stormy! Some grown-ups say we should get extra cereal and juice just in case. What do you think your family should do?",
-        "storyBig": "With extreme weather events on the horizon, experts are advising families to stock up on essential goods like cereal and juice. The anticipation of these weather patterns could lead to temporary shortages in grocery stores.",
-        "think": "How do you think buying extra cereal and juice helps families during storms?",
-        "bull": "It's smart to be prepared for anything!",
-        "bear": "If too many people buy extra, stores might run out quickly.",
-        "impacts": {"CRNC": 3, "JUCE": 2}
+        "title": "Get Ready for Rainy Weather!",
+        "story": "A cool weather event might make it rainy this winter. Everyone is stocking up on yummy cereal and juice.",
+        "storyBig": "Meteorologists predict that a significant weather event could lead to prolonged stormy conditions this winter. Families are encouraged to stock up on essential food items like cereal and juice to prepare for possible disruptions.",
+        "think": "What would you stock up on for a rainy day?",
+        "bull": "Rainy days are great for board games!",
+        "bear": "Too much rain can make outdoor play tricky.",
+        "impacts": {"CRNC": 5, "JUCE": 3}
     },
     {
-        "rss": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "emoji": "🎉",
+        "rss": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+        "emoji": "🎮",
         "type": "company",
-        "title": "Birthday Surprises from Companies!",
-        "story": "Some companies give out surprises like free chocolate on your birthday! But you might have to sign up first. Would you like a birthday treat from your favorite candy shop?",
-        "storyBig": "Companies often offer birthday freebies, such as chocolates, to entice customers to sign up for their loyalty programs. While this strategy can drive customer engagement, it's important to understand the marketing tactics involved.",
-        "think": "Why do you think companies give away free treats on your birthday?",
-        "bull": "Free treats make birthdays extra special!",
-        "bear": "Remember, you may need to share some personal info to get the freebies.",
-        "impacts": {"CHOC": 2}
+        "title": "Game Time Cut Short!",
+        "story": "PIXL video games has set a limit on how long kids can play online each month. They want to make sure games run smoothly.",
+        "storyBig": "PIXL video games has announced a new cap on monthly online gaming time to manage rising operational costs. This strategic move is intended to ensure an improved gaming experience for all users.",
+        "think": "How would you spend your extra time if gaming hours were limited?",
+        "bull": "Less screen time means more time for other fun!",
+        "bear": "Some kids might miss playing their favorite games longer.",
+        "impacts": {"PIXL": -4}
     }
 ]
