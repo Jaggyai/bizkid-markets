@@ -1,1 +1,26 @@
-[{"rss":"Jaguar Land Rover to cut 4,000 jobs over next two years","emoji":"🚗","type":"industry","title":"Toy Car Makers Face Tough Roads","story":"Toy car makers are having a tough time because new electric toys and foreign competition. They plan to make changes to keep up.","storyBig":"The toy car industry is facing challenges due to a shift towards electric models and increased global competition. Companies are strategizing to adapt to these changes and maintain market share.","think":"What might happen if toy companies don't adapt to new trends?","bull":"New electric toys are exciting and environmentally friendly!","bear":"Struggling toy car makers may need more time to adapt.","impacts":{"RCCR":-3}},{"rss":"More funding needed to boost construction jobs for young people, housing boss says","emoji":"🏗️","type":"industry","title":"Builders Need More Kids to Help","story":"Builder companies need more kids to help build houses and treehouses. They want to teach kids how to build cool stuff.","storyBig":"The construction industry is experiencing a labor shortage, necessitating the recruitment of younger workers to meet housing demands. Companies are advocating for more educational programs to train future builders.","think":"Why is it important to have enough workers in construction?","bull":"Learning to build can be a fun and rewarding career!","bear":"Without enough builders, building projects might slow down.","impacts":{"TREE":2,"PARK":1}}]
+[
+    {
+        "rss": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "emoji": "🏦",
+        "type": "industry",
+        "title": "Soda Prices Stay Fizzed Up",
+        "story": "Many kids thought soda prices would go down, but they stayed the same. This means they still have to save up to buy their favorite FIZZ.",
+        "storyBig": "Expectations for a drop in soda prices were dashed as major suppliers kept prices steady. This development leaves consumers needing to make strategic decisions about their soda purchases.",
+        "think": "Why do you think soda prices didn't drop?",
+        "bull": "FIZZ might still be a popular choice, keeping sales strong.",
+        "bear": "High prices might push kids to choose other drinks.",
+        "impacts": {"FIZZ": 3}
+    },
+    {
+        "rss": "The firms turning recruitment into X Factor-style competitions",
+        "emoji": "🎤",
+        "type": "industry",
+        "title": "Toy Makers Seek New Ideas With Contests",
+        "story": "Toy companies are holding fun contests to find the coolest new toy ideas. Kids pitch their ideas like a game show.",
+        "storyBig": "Toy manufacturers are adopting innovative recruitment strategies by hosting competitions to gather fresh ideas. This approach allows them to discover creative talents in a unique and dynamic way.",
+        "think": "What new toy idea would you pitch?",
+        "bull": "This could lead to exciting new toy inventions!",
+        "bear": "Some kids might feel nervous about participating.",
+        "impacts": {"BLOK": 2, "PLSH": 2, "KITE": 2}
+    }
+]
