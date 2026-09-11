@@ -1,1 +1,26 @@
-[{"rss":"Primark finally set to launch home deliveries","emoji":"📦","type":"industry","title":"Toy Shop Starts Home Deliveries!","story":"The Big Toy Shop is finally delivering toys to your home! Now, you can order toys online and have them arrive right at your door.","storyBig":"The Big Toy Shop has entered the e-commerce market by launching home delivery services for its wide range of toys, enhancing customer convenience.","think":"What are the benefits of getting toys delivered to your home?","bull":"Now you can get toys without going to the store!","bear":"It might take time for deliveries to arrive.","impacts":{"BLOK":2,"PLSH":3,"BORD":1}},{"rss":"Apple's new boss starts with big gamble on £1,999 first folding iPhone","emoji":"📱","type":"company","title":"Folding Gadget Introduced by ROBO!","story":"ROBO introduces a cool new folding gadget! It's a unique design that lets you fold it like a piece of paper.","storyBig":"ROBO has made a significant move by launching a folding gadget, marking a notable shift in design and technology for the company.","think":"Why do you think folding gadgets are exciting?","bull":"Folding gadgets are fun and new!","bear":"These gadgets might be expensive to buy.","impacts":{"ROBO":3,"APPS":2}}]
+[
+    {
+        "rss": "AI boom helps drive surprise UK growth in July",
+        "emoji": "🤖",
+        "type": "industry",
+        "title": "Robot Craze Boosts BizKid Economy",
+        "story": "Lots of people are super excited about robots! Because of this, more and more robot toys and games are being sold, helping the BizKid world grow by 0.4%.",
+        "storyBig": "The rising interest in robotic technology has unexpectedly fueled economic growth by 0.4% in the BizKid world. This surge was driven by increased demand for robot-related products and experiences.",
+        "think": "Why do you think robots are becoming so popular?",
+        "bull": "More robots mean more fun and learning!",
+        "bear": "Not everyone might want to buy a robot.",
+        "impacts": {"ROBO": 4, "BOTS": 3}
+    },
+    {
+        "rss": "Primark finally set to launch home deliveries",
+        "emoji": "📦",
+        "type": "company",
+        "title": "Toy Store Starts Home Deliveries",
+        "story": "The famous toy store in BizKid Land is now delivering toys right to your door! This means kids can get their favorite toys without leaving home.",
+        "storyBig": "After years of anticipation, a major toy retail company in BizKid Land has initiated a home delivery service. This move marks a significant shift towards greater convenience for customers.",
+        "think": "How would getting toys delivered to your house change your shopping habits?",
+        "bull": "Home delivery means getting toys faster and easier!",
+        "bear": "Some might miss the fun of shopping in person.",
+        "impacts": {"BLOK": 2, "PIXL": 2, "PLSH": 1}
+    }
+]
