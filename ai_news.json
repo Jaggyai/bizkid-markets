@@ -1,1 +1,26 @@
-[{"rss":"Flight chaos caused by 'millisecond' software defect, report says","emoji":"✈️","type":"industry","title":"Toy Planes Grounded by Glitch","story":"A little glitch in the computer caused toy planes to stop flying for a day. Many kids had to wait to play with their favorite toys.","storyBig":"A software defect caused a temporary halt in the availability of toy planes, affecting sales and customer satisfaction. This highlights the importance of robust software testing in the toy industry.","think":"What would you do while waiting for your toy plane to work again?","bull":"Fixing glitches makes toys better in the future.","bear":"Glitches in toys can make people upset and lose interest.","impacts":{"RCCR":-4}},{"rss":"The virtual worlds where robots are trained","emoji":"🤖","type":"industry","title":"Robots Learn to Play Better","story":"Robots are using make-believe worlds to practice their skills. This helps them do better things in the real world.","storyBig":"Robots are now being trained in virtual environments to enhance their real-world capabilities, leading to more effective and sophisticated robotics solutions.","think":"How would you teach a robot a new trick?","bull":"Robots can become super helpers with more practice.","bear":"Robots need a lot of training before they can be really helpful.","impacts":{"ROBO":5,"BOTS":3}}]
+[
+    {
+        "rss": "Ed Davey calls for immediate 10p cut to fuel duty",
+        "emoji": "⛽",
+        "type": "industry",
+        "title": "Fuel Prices Affect Toy Delivery",
+        "story": "Fuel prices have gone up because of high demand. This means it costs more to deliver toys like RCCR RC cars and DLVR package delivery is more expensive. Companies want to find a way to make fuel cheaper.",
+        "storyBig": "The surge in fuel prices has led to increased transportation costs for companies like RCCR and DLVR. Industry leaders are advocating for reduced fuel duties to alleviate this financial burden on logistics.",
+        "think": "How do fuel costs impact the price of toys at the store?",
+        "bull": "Lower fuel prices could make toy delivery faster and cheaper.",
+        "bear": "If fuel stays expensive, toys might cost more to buy.",
+        "impacts": {"RCCR": -3, "DLVR": -2}
+    },
+    {
+        "rss": "Chiltern Railways renationalised after 30 years",
+        "emoji": "🚄",
+        "type": "regional",
+        "title": "Train Adventures Get a New Owner",
+        "story": "The trains that take kids to theme parks like PARK are now run by a new team. They hope to make rides smoother and more fun for everyone.",
+        "storyBig": "The government has taken control of the railway service to improve efficiency and service quality. This transition aims to enhance travel experiences, especially for families visiting amusement destinations like PARK.",
+        "think": "Why is it important for train rides to be reliable and fun?",
+        "bull": "New management could make trips to the theme park better.",
+        "bear": "Changing who runs the trains might take some time to adjust.",
+        "impacts": {"PARK": 2, "DLVR": 1}
+    }
+]
