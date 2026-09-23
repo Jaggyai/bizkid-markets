@@ -1,1 +1,28 @@
-[{"rss":"Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices","emoji":"⚙️","type":"industry","title":"Toy Bricks Stop: Energy Costs Soar","story":"BLOK, the toy brick maker, paused its factory work because the power bill got too high. They say the cost to keep the machines running is way more than usual. This means fewer toy bricks for a while.","storyBig":"BLOK has temporarily halted production due to rising energy costs, as it becomes unsustainable to maintain operations with current electricity prices. This could lead to a shortage of toy bricks in the market.","think":"Why do high energy prices make things cost more?","bull":"This might mean BLOK finds new, cheaper energy ways!","bear":"Toy bricks could become hard to find for a bit.","impacts":{"BLOK":-5}},{"rss":"I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance","emoji":"🏖️","type":"industry","title":"Grandparents Choose Fun Over Savings!","story":"Some grandparents are spending their money on fun vacations instead of saving it up. This means they are living life to the fullest now rather than keeping it for later.","storyBig":"A growing trend among retirees is to prioritize spending on life experiences rather than conserving savings for future generations. This shift impacts how money moves in recreational and travel industries.","think":"What would you choose to do with savings: keep or spend?","bull":"Travel companies might see more visitors soon!","bear":"Less saved money might mean fewer gifts later.","impacts":{"PARK":3,"MOVI":2}}]
+```json
+[
+    {
+        "rss": "Will a switch to light speed cut power use at data centres?",
+        "emoji": "💡",
+        "type": "industry",
+        "title": "Light Wires Save Energy!",
+        "story": "In Tech Town, data centers are using light instead of wires to save energy. This helps computers run faster and use less power, which is great for the environment.",
+        "storyBig": "Data centers in Tech Town are adopting light-based technology to replace traditional copper wires. This innovation aims to reduce power consumption and increase efficiency, creating a more sustainable energy footprint.",
+        "think": "How does saving power help our planet?",
+        "bull": "Using light for data means faster and greener tech!",
+        "bear": "Switching to new tech can be costly and tricky.",
+        "impacts": {"APPS": 4, "WTCH": 3}
+    },
+    {
+        "rss": "Vet prescription fees capped under rule changes",
+        "emoji": "🐾",
+        "type": "industry",
+        "title": "Pet Medicine Costs Drop!",
+        "story": "New rules mean vets need to tell if they have cheaper medicine for pets. This could help pet owners save money when caring for their furry friends.",
+        "storyBig": "Regulations now require veterinarians to inform clients about more affordable online medicine options for their pets. This policy aims to reduce veterinary prescription costs, providing financial relief to pet owners.",
+        "think": "Why is it important to find cheaper options for pet care?",
+        "bull": "Pet care becomes more affordable for families.",
+        "bear": "Some vets might struggle with these changes.",
+        "impacts": {"PAWZ": 2, "KITY": 1}
+    }
+]
+```
