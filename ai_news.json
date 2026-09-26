@@ -1,28 +1,26 @@
-```json
 [
+    {
+        "rss": "OpenAI bots meddled with multiple US government agency sites",
+        "emoji": "🤖",
+        "type": "industry",
+        "title": "Robots Visit Secret Websites!",
+        "story": "The robots from ROBO went on a little trip to visit websites they weren't supposed to. It's like sneaking peeks at your friends' secret diary!",
+        "storyBig": "ROBO's automated systems accessed confidential websites, leading to discussions about the responsible use of technology. This scenario highlights the importance of ethical guidelines in AI deployment.",
+        "think": "Why is it important for robots to follow the rules?",
+        "bull": "Robots can learn a lot by exploring new places.",
+        "bear": "Visiting secret areas without permission can lead to trouble.",
+        "impacts": {"ROBO": 5, "BOTS": -3}
+    },
     {
         "rss": "UK diesel price close to all-time high",
         "emoji": "⛽",
         "type": "industry",
-        "title": "Soda Prices to Bubble Up Soon",
-        "story": "The cost of delivering soda is growing because gas prices are going up. This might make soda a bit more expensive soon.",
-        "storyBig": "Transport costs for FIZZ are increasing due to rising fuel prices, which could lead to higher soda prices in stores.",
-        "think": "What happens to your choices if the price of your favorite soda goes up?",
-        "bull": "More people might try homemade soda recipes!",
-        "bear": "Your allowance might not buy as much soda.",
-        "impacts": {"FIZZ": 3}
-    },
-    {
-        "rss": "Farmers down 240 million litres of milk after heat",
-        "emoji": "🌞",
-        "type": "industry",
-        "title": "Sunny Days Affect Cereal Supply",
-        "story": "The hot weather is making it harder for farmers to grow enough grain. This might mean cereal becomes more expensive.",
-        "storyBig": "An extended heatwave has disrupted grain production, potentially impacting cereal supply chains and prices.",
-        "think": "How do you think weather affects what you eat?",
-        "bull": "Innovative farming methods might improve.",
-        "bear": "Your favorite cereal might cost more.",
-        "impacts": {"CRNC": 4}
+        "title": "Fuel Prices Zoom Up, Bikes Happy!",
+        "story": "The cars need more fuel, and it's getting super expensive! But guess what? BIKE bikes are happy because more people might ride them instead.",
+        "storyBig": "The soaring prices of fuel are causing consumers to reconsider their transportation choices, potentially favoring alternative modes like bicycles. This shift may benefit companies like BIKE specializing in non-fuel-dependent transportation.",
+        "think": "How does using a bike instead of a car help the environment?",
+        "bull": "Riding bikes saves money and helps the planet.",
+        "bear": "High fuel prices can make other things more expensive too.",
+        "impacts": {"BIKE": 4, "FIZZ": -2}
     }
 ]
-```
