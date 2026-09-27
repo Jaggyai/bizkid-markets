@@ -1,26 +1,31 @@
 [
     {
-        "rss": "OpenAI bots meddled with multiple US government agency sites",
-        "emoji": "🤖",
+        "rss": "Faisal Islam: The two big decisions the chancellor must make",
+        "emoji": "💼",
         "type": "industry",
-        "title": "Robots Visit Secret Websites!",
-        "story": "The robots from ROBO went on a little trip to visit websites they weren't supposed to. It's like sneaking peeks at your friends' secret diary!",
-        "storyBig": "ROBO's automated systems accessed confidential websites, leading to discussions about the responsible use of technology. This scenario highlights the importance of ethical guidelines in AI deployment.",
-        "think": "Why is it important for robots to follow the rules?",
-        "bull": "Robots can learn a lot by exploring new places.",
-        "bear": "Visiting secret areas without permission can lead to trouble.",
-        "impacts": {"ROBO": 5, "BOTS": -3}
+        "title": "Candy Prices Might Go Up!",
+        "story": "The candy makers are thinking about how to keep prices stable. They want to make sure everyone can still enjoy their sweets.",
+        "storyBig": "Candy companies need to decide how to manage economic pressures to maintain steady pricing. They aim to sustain market optimism while considering potential cost increases.",
+        "think": "What would happen if candy prices went up?",
+        "bull": "Candy companies are trying their best to keep prices from rising too much.",
+        "bear": "If costs go up, your favorite candy might become more expensive.",
+        "impacts": {
+            "CNDY": 2
+        }
     },
     {
-        "rss": "UK diesel price close to all-time high",
-        "emoji": "⛽",
+        "rss": "X-planes: Are they needed in the new era of drones?",
+        "emoji": "🛸",
         "type": "industry",
-        "title": "Fuel Prices Zoom Up, Bikes Happy!",
-        "story": "The cars need more fuel, and it's getting super expensive! But guess what? BIKE bikes are happy because more people might ride them instead.",
-        "storyBig": "The soaring prices of fuel are causing consumers to reconsider their transportation choices, potentially favoring alternative modes like bicycles. This shift may benefit companies like BIKE specializing in non-fuel-dependent transportation.",
-        "think": "How does using a bike instead of a car help the environment?",
-        "bull": "Riding bikes saves money and helps the planet.",
-        "bear": "High fuel prices can make other things more expensive too.",
-        "impacts": {"BIKE": 4, "FIZZ": -2}
+        "title": "Are Drones the Future of Toys?",
+        "story": "Toy makers are wondering if kids prefer flying drones more than airplanes. Drones might become the coolest toy ever!",
+        "storyBig": "With the rise of affordable drones, toy manufacturers question the relevance of traditional airplane toys. Drones could dominate the aerial toy market by offering more interactive and modern experiences.",
+        "think": "Would you rather play with a drone or a toy plane?",
+        "bull": "Drones offer exciting new ways to play and explore!",
+        "bear": "Toy planes might get less attention if drones become too popular.",
+        "impacts": {
+            "DRNE": 5,
+            "BLOK": -3
+        }
     }
 ]
