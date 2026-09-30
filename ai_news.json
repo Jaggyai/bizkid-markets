@@ -1,1 +1,26 @@
-[{"rss":"Burnham to unveil public body to invest in electricity grid","emoji":"🔌","type":"industry","title":"Solar Energy Gets a Boost","story":"The town wants to use more solar energy. This can help make power cheaper and better for Earth.","storyBig":"The local council plans to invest in solar energy to reduce electricity costs and enhance sustainability. This decision could lead to lower energy prices and support the environment.","think":"How can using solar power help the planet?","bull":"Solar energy can make electricity cheaper!","bear":"Switching to solar energy takes time and planning.","impacts":{"SOLR":5,"GRNS":2}},{"rss":"I paid £30,000 for an 'influencer' degree. Here's why","emoji":"🎓","type":"industry","title":"Content Creation: Cool New Career","story":"Some kids are learning how to make videos and posts for jobs. It's a new way to earn money.","storyBig":"Degrees in content creation are becoming popular, enabling individuals to make money through social media platforms. This reflects a trend towards digital careers in today's economy.","think":"What skills are important for making videos and posts?","bull":"You can make fun videos and maybe even a job out of it!","bear":"Not everyone might find success in this new career path.","impacts":{"APPS":4,"PIXL":3}}]
+[
+    {
+        "rss": "Household energy bills forecast to see biggest rise in four years",
+        "emoji": "💡",
+        "type": "industry",
+        "title": "Energy Costs to Rise",
+        "story": "Families might have to pay more for electricity and gas soon. This means using less energy at home could help save money.",
+        "storyBig": "A significant increase in energy costs is expected, which might affect household budgets. Using energy-efficient practices can help mitigate the impact.",
+        "think": "How can you use less energy at home?",
+        "bull": "Saves energy, and you get to try cool new energy-saving gadgets!",
+        "bear": "Higher costs might mean less money for fun activities.",
+        "impacts": {"SOLR": 3, "TREE": 2}
+    },
+    {
+        "rss": "Greggs to shut four factories and cut 740 jobs",
+        "emoji": "🏭",
+        "type": "company",
+        "title": "Bakery Changes: Fewer Factories Open",
+        "story": "A big bakery company is closing some of its factories. They want to change to meet what customers like more.",
+        "storyBig": "The company is restructuring by closing some locations to better align with evolving consumer preferences. This could lead to job losses and a shift in production strategies.",
+        "think": "What could the company do to make customers happy?",
+        "bull": "New products might be more fun and exciting!",
+        "bear": "Some people might lose their jobs, which is tough.",
+        "impacts": {"CRNC": -5, "LNCH": -3}
+    }
+]
