@@ -1,1 +1,26 @@
-[{"rss":"AI boom could trigger market shocks, Bank of England boss warns","emoji":"🤖","type":"industry","title":"Robots Are Making Big Waves!","story":"Lots of people are spending money on robots. This could make some things in the market change quickly.","storyBig":"The rapid growth of AI investments could cause fluctuations in financial markets. It's important for investors to stay alert to these market changes.","think":"What would you buy if you were a robot maker?","bull":"Robots can help us do things faster and better.","bear":"Too many robot investments could be risky if they don't work out.","impacts":{"ROBO":5,"BOTS":4}},{"rss":"The AI telling farmers when to harvest","emoji":"🌾","type":"industry","title":"Robots Help Farmers Pick!","story":"Some farmers are using robots to know the best time to pick their crops. This makes farming easier!","storyBig":"AI tools are being used to optimize harvest times for better crop yields. However, farmers must decide whether to rely on technology or their own expertise.","think":"Would you trust a robot to help you plant a garden?","bull":"Robots can help make farming easier and more fun.","bear":"Relying too much on robots could be tricky if they make mistakes.","impacts":{"GRNS":3,"FARM":2}}]
+[
+    {
+        "rss": "US jobs market sees sharp slowdown in September",
+        "emoji": "🛑",
+        "type": "industry",
+        "title": "Toy Market Slowdown Surprises Many",
+        "story": "In Toy Town, fewer people are being hired to make toys. This means it's harder to find jobs making toy bricks and video games.",
+        "storyBig": "The toy industry is experiencing a hiring slowdown, leading to fewer job opportunities for workers in the toy bricks and video games sectors. This reflects a broader economic trend where companies are cautious about expanding their workforce.",
+        "think": "Why might companies hire fewer workers during certain times?",
+        "bull": "Fewer workers could mean less competition for existing jobs.",
+        "bear": "It might be harder for people to find jobs they want.",
+        "impacts": {"BLOK": -3, "PIXL": -3}
+    },
+    {
+        "rss": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+        "emoji": "🚫",
+        "type": "industry",
+        "title": "New Snack Rules Change Shopping",
+        "story": "In Snack City, new rules mean sugary snacks like cereal can't be at the end of the aisle. This could change how people shop for cereal and candy.",
+        "storyBig": "New regulations in Snack City restrict the prominent placement of high-sugar items such as cereals and candies in store aisles. This could significantly impact consumer buying habits and the sales of these sugary products.",
+        "think": "How do the rules about where items are placed in stores affect what people buy?",
+        "bull": "Healthier options might become more popular.",
+        "bear": "It might be harder to find your favorite snacks.",
+        "impacts": {"CRNC": -5, "CNDY": -4}
+    }
+]
