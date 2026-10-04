@@ -1,1 +1,30 @@
-[{"rss":"G7 to release millions of barrels of oil and diesel after Trump threat","emoji":"🌬️","type":"industry","title":"New Soda Rush to Cool Down Prices","story":"FIZZ the soda company is sharing lots of their fizzy drinks with everyone to keep prices from going up. Kids will have plenty of soda without worry.","storyBig":"FIZZ is coordinating a large release of its soda reserves to mitigate potential price increases and stabilize the market. This strategic action aims to maintain consumer confidence and ensure supply levels remain adequate.","think":"What happens if there is too much of something for sale?","bull":"More soda means everyone can enjoy their favorite flavors.","bear":"Too much soda might mean lower profits for FIZZ.","impacts":{"FIZZ":3}},{"rss":"No more cereal at the end of the aisle? New rules in Scotland's supermarkets","emoji":"📑","type":"industry","title":"Toy Brick Rules in Stores Change","story":"BLOK toy bricks are now in different places at the store. They're not at the end of the aisle anymore. This means you might have to look harder to find them!","storyBig":"BLOK toy bricks are being repositioned in stores due to new placement rules focusing on product display. This change could impact visibility and sales, requiring strategic adaptation by the company.","think":"How does where something is sold in a store affect how much we buy it?","bull":"Exploring the store might lead to discovering new toys!","bear":"Finding your favorite toy might take longer.","impacts":{"BLOK":-2}}]
+[
+    {
+        "rss": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "emoji": "🚗",
+        "type": "industry",
+        "title": "Toy Car Fuel Prices Roll Down",
+        "story": "Toy car factories have found a way to get more fuel for their little vehicles. This means they can make and sell toy cars at a better price.",
+        "storyBig": "A coordinated release of toy car fuel has been announced to stabilize prices and ensure supply, preventing potential shortages. This move is expected to keep toy car prices more affordable for everyone.",
+        "think": "Why is it important to have enough fuel for toy cars?",
+        "bull": "More fuel means toy cars are cheaper to make and buy.",
+        "bear": "If the fuel runs out again, prices might go up.",
+        "impacts": {
+            "RCCR": 4
+        }
+    },
+    {
+        "rss": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+        "emoji": "🥣",
+        "type": "regional",
+        "title": "Sugary Cereal Moves in Supermarket",
+        "story": "Some stores have decided to move sugary cereals to a different part of the store. This makes it easier to find healthier choices.",
+        "storyBig": "New regulations require supermarkets to reposition high-sugar cereals away from prominent aisles to encourage healthier shopping habits. This change aims to highlight and promote more nutritious options to shoppers.",
+        "think": "What can stores do to help people pick healthy foods?",
+        "bull": "More people might try healthy cereals now.",
+        "bear": "Some kids might miss seeing their favorite cereal.",
+        "impacts": {
+            "CRNC": -3
+        }
+    }
+]
