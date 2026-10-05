@@ -1,30 +1,26 @@
 [
     {
-        "rss": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "emoji": "🚗",
-        "type": "industry",
-        "title": "Toy Car Fuel Prices Roll Down",
-        "story": "Toy car factories have found a way to get more fuel for their little vehicles. This means they can make and sell toy cars at a better price.",
-        "storyBig": "A coordinated release of toy car fuel has been announced to stabilize prices and ensure supply, preventing potential shortages. This move is expected to keep toy car prices more affordable for everyone.",
-        "think": "Why is it important to have enough fuel for toy cars?",
-        "bull": "More fuel means toy cars are cheaper to make and buy.",
-        "bear": "If the fuel runs out again, prices might go up.",
-        "impacts": {
-            "RCCR": 4
-        }
+        "rss": "BT agrees rescue deal to buy broadband operator TalkTalk",
+        "emoji": "🤝",
+        "type": "company",
+        "title": "CNDY Buys JUCE to Sweeten the Deal",
+        "story": "CNDY has decided to buy JUCE, making both companies stronger together. This means they can make even better candies and drinks for everyone.",
+        "storyBig": "CNDY's acquisition of JUCE is a strategic move to consolidate their market position and leverage synergies in production and distribution. The merger is currently pending regulatory approval but promises increased consumer satisfaction.",
+        "think": "Why might combining two companies make them stronger?",
+        "bull": "With CNDY and JUCE together, they can create new and exciting products.",
+        "bear": "Sometimes merging can be tricky if the two companies don't work well together.",
+        "impacts": {"CNDY": 5, "JUCE": 4}
     },
     {
         "rss": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-        "emoji": "🥣",
-        "type": "regional",
-        "title": "Sugary Cereal Moves in Supermarket",
-        "story": "Some stores have decided to move sugary cereals to a different part of the store. This makes it easier to find healthier choices.",
-        "storyBig": "New regulations require supermarkets to reposition high-sugar cereals away from prominent aisles to encourage healthier shopping habits. This change aims to highlight and promote more nutritious options to shoppers.",
-        "think": "What can stores do to help people pick healthy foods?",
-        "bull": "More people might try healthy cereals now.",
-        "bear": "Some kids might miss seeing their favorite cereal.",
-        "impacts": {
-            "CRNC": -3
-        }
+        "emoji": "🚫",
+        "type": "industry",
+        "title": "New Aisle Rules for CRNC Cereal",
+        "story": "CRNC cereal can't be at the end of the aisle anymore because of new health rules. This means kids might find it in a different place in the store.",
+        "storyBig": "New regulations are changing the placement of CRNC cereal in stores to encourage healthier eating habits. Products with high sugar content like CRNC may no longer be displayed at the aisle ends to decrease impulse buying.",
+        "think": "How might moving where a product is in a store affect sales?",
+        "bull": "This change could inspire healthier choices for shoppers.",
+        "bear": "CRNC cereal may be harder to find, which could affect its sales.",
+        "impacts": {"CRNC": -3}
     }
 ]
