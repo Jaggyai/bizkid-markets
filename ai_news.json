@@ -1,1 +1,26 @@
-[{"rss":"Paramount takes over Warner Bros in $110bn Hollywood merger","emoji":"🎬","type":"industry","title":"Two Movie Studios Become One","story":"MOVI Studios and CINEMA Stars have joined together to make even more super cool movies! They hope this will help them make new and exciting films for everyone to watch.","storyBig":"MOVI Studios has completed a merger with CINEMA Stars, creating a powerhouse in the entertainment industry. This merger is expected to enhance their competitive edge and leverage synergies to produce innovative content.","think":"What could happen when two big companies join forces?","bull":"More awesome movies could be made!","bear":"Ticket prices might go up.","impacts":{"MOVI":5}},{"rss":"Last call for the mall? How shopping centres are reinventing themselves","emoji":"🛍️","type":"industry","title":"Malls Are Trying New Things","story":"Malls are finding fun ways to stay popular, like adding game zones and food adventures. They're making sure that going to the mall is more than just shopping.","storyBig":"Shopping centers are reinventing themselves by introducing entertainment options such as virtual reality experiences and food courts to attract more visitors. This strategy aims to combat the challenges posed by online shopping trends.","think":"Why might people choose to shop online instead of going to a mall?","bull":"You can play games while shopping!","bear":"Some stores might still close down.","impacts":{"PIXL":3,"VRVR":4}}]
+[
+    {
+        "rss": "Half the harvest, twice the bills: how drought hit farms",
+        "emoji": "🌾",
+        "type": "industry",
+        "title": "Farms Face Tough Year with Drought",
+        "story": "Farmers have a tricky time when there's a drought. They can't grow as many crops and have to pay more to keep things running.",
+        "storyBig": "Farmers are experiencing reduced harvests due to drought conditions, which has led to increased operational costs and reduced crop yields. This poses a significant challenge to maintaining profitability.",
+        "think": "What can farms do to prepare for dry weather?",
+        "bull": "Farms might invest in new ways to save water.",
+        "bear": "Less rain means fewer crops and higher costs.",
+        "impacts": {"FARM": -6, "GRNS": -5}
+    },
+    {
+        "rss": "Rainmakers: The drones used to seed clouds",
+        "emoji": "☁️",
+        "type": "industry",
+        "title": "Drones Help Make Rainy Days",
+        "story": "Using drones to make it rain is becoming popular. These drones spray special stuff into clouds to help them make rain.",
+        "storyBig": "Drones are increasingly being utilized for cloud seeding, a process where chemicals are dispersed into clouds to encourage rainfall. This innovative approach is gaining traction as a potential solution to water shortages.",
+        "think": "How could making rain with drones help farmers?",
+        "bull": "Drones might help bring rain when it's needed most.",
+        "bear": "Not all clouds can be turned into rainmakers.",
+        "impacts": {"DRNE": 4, "FARM": 3}
+    }
+]
