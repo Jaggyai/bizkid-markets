@@ -1,1 +1,36 @@
-[{"rss":"Fuel prices added to Google Maps as petrol and diesel costs soar","emoji":"⛽","type":"industry","title":"Map Adds Snack Shop Prices!","story":"Snack shops are now on the map with prices! This helps everyone find cheaper treats nearby.","storyBig":"Snack shop prices are now listed on maps, making it easier for consumers to locate the best deals in their area. This change comes in response to rising candy and snack costs.","think":"How do you find the best prices for treats?","bull":"Finding cheaper snacks is now easier!","bear":"Prices are rising, making snacks costlier.","impacts":{"CNDY":4,"CHOC":3,"FIZZ":2}},{"rss":"AI chip boom pushes Samsung profits to record $80bn","emoji":"🤖","type":"industry","title":"Robot Chip Boom! Profits Soar","story":"Robot chips are super popular and making companies lots of money. Kids love playing with cool robots!","storyBig":"The demand for advanced robot chips has surged, leading to significant profits for companies. This trend is expected to continue as technology integrates further into play and education.","think":"Why do you think robot chips are so popular?","bull":"Robot toys are more fun and smart now!","bear":"High demand means prices might increase.","impacts":{"ROBO":5,"BOTS":4}}]
+```json
+[
+    {
+        "rss": "Burnham promises to curb non-compete rules in job contracts",
+        "emoji": "🔍",
+        "type": "industry",
+        "title": "New Rules Let Workers Explore More!",
+        "story": "There are new rules that help workers when they want to find new jobs. These rules make it easier for workers to decide what they want to do next. Now, workers can explore new and exciting jobs more freely!",
+        "storyBig": "New regulations are being implemented to limit non-compete clauses in employment contracts. This change could increase job mobility and allow workers to pursue opportunities without restriction.",
+        "think": "Why do you think it's important for workers to have choices about their jobs?",
+        "bull": "More freedom means workers can find cool and fun jobs!",
+        "bear": "Some companies might worry about losing their best workers.",
+        "impacts": {
+            "APPS": 2,
+            "ROBO": 3,
+            "BOTS": 1
+        }
+    },
+    {
+        "rss": "Why are more roofs not made of solar tiles?",
+        "emoji": "🏠",
+        "type": "industry",
+        "title": "Solar Roofs: Why Aren't They Everywhere?",
+        "story": "Solar tiles can make roofs look nice while making energy from the sun. But not many people have them yet because they cost a lot. People are still thinking about if it's worth the money.",
+        "storyBig": "Solar tiles offer a visually appealing alternative to traditional solar panels but have not gained widespread adoption due to high costs. Homeowners are weighing the long-term benefits against the initial investment.",
+        "think": "What might make more people want to use solar tiles on their roofs?",
+        "bull": "Solar tiles make houses look nice and save energy!",
+        "bear": "High costs might stop people from buying solar tiles.",
+        "impacts": {
+            "SOLR": 4,
+            "TREE": 2,
+            "FARM": 1
+        }
+    }
+]
+```
