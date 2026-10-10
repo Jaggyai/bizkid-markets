@@ -1,36 +1,30 @@
-```json
 [
     {
-        "rss": "Burnham promises to curb non-compete rules in job contracts",
-        "emoji": "🔍",
+        "rss": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+        "emoji": "💡",
         "type": "industry",
-        "title": "New Rules Let Workers Explore More!",
-        "story": "There are new rules that help workers when they want to find new jobs. These rules make it easier for workers to decide what they want to do next. Now, workers can explore new and exciting jobs more freely!",
-        "storyBig": "New regulations are being implemented to limit non-compete clauses in employment contracts. This change could increase job mobility and allow workers to pursue opportunities without restriction.",
-        "think": "Why do you think it's important for workers to have choices about their jobs?",
-        "bull": "More freedom means workers can find cool and fun jobs!",
-        "bear": "Some companies might worry about losing their best workers.",
+        "title": "PIXL Games Still Popular Despite Critics",
+        "story": "PIXL Games is still loved by kids even though some people are saying not-so-nice things about it. The games are so fun that kids don't seem to care about the bad words.",
+        "storyBig": "Despite criticism about its leadership, PIXL Games continues to thrive in the market. The compelling nature of its gaming products seems to outweigh negative publicity, attracting strong customer engagement.",
+        "think": "Why do you think PIXL Games is still popular even if some people don't like its leaders?",
+        "bull": "PIXL Games makes super fun games that everyone wants to play!",
+        "bear": "If people keep saying bad things, some might stop buying the games.",
         "impacts": {
-            "APPS": 2,
-            "ROBO": 3,
-            "BOTS": 1
+            "PIXL": 5
         }
     },
     {
-        "rss": "Why are more roofs not made of solar tiles?",
-        "emoji": "🏠",
-        "type": "industry",
-        "title": "Solar Roofs: Why Aren't They Everywhere?",
-        "story": "Solar tiles can make roofs look nice while making energy from the sun. But not many people have them yet because they cost a lot. People are still thinking about if it's worth the money.",
-        "storyBig": "Solar tiles offer a visually appealing alternative to traditional solar panels but have not gained widespread adoption due to high costs. Homeowners are weighing the long-term benefits against the initial investment.",
-        "think": "What might make more people want to use solar tiles on their roofs?",
-        "bull": "Solar tiles make houses look nice and save energy!",
-        "bear": "High costs might stop people from buying solar tiles.",
+        "rss": "Boots has a new owner: Three ways it could affect you",
+        "emoji": "🤝",
+        "type": "company",
+        "title": "BLOK Toy Bricks Gets New Owner",
+        "story": "BLOK Toy Bricks has been bought by a big family. They might make changes that could mean new toys or even better prices.",
+        "storyBig": "BLOK Toy Bricks was recently acquired by a prominent family investor, potentially leading to shifts in product offerings and pricing strategies. These changes could impact consumer choices and market competition.",
+        "think": "What changes would you like to see in BLOK Toy Bricks with the new owners?",
+        "bull": "Maybe there will be cool new toys to play with!",
+        "bear": "Sometimes new owners change things that people liked.",
         "impacts": {
-            "SOLR": 4,
-            "TREE": 2,
-            "FARM": 1
+            "BLOK": 3
         }
     }
 ]
-```
