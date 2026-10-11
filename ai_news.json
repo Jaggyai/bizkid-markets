@@ -1,30 +1,34 @@
 [
     {
-        "rss": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-        "emoji": "💡",
+        "rss": "Boots has a new owner: Three ways it could affect you",
+        "emoji": "🛍️",
         "type": "industry",
-        "title": "PIXL Games Still Popular Despite Critics",
-        "story": "PIXL Games is still loved by kids even though some people are saying not-so-nice things about it. The games are so fun that kids don't seem to care about the bad words.",
-        "storyBig": "Despite criticism about its leadership, PIXL Games continues to thrive in the market. The compelling nature of its gaming products seems to outweigh negative publicity, attracting strong customer engagement.",
-        "think": "Why do you think PIXL Games is still popular even if some people don't like its leaders?",
-        "bull": "PIXL Games makes super fun games that everyone wants to play!",
-        "bear": "If people keep saying bad things, some might stop buying the games.",
+        "title": "Toy Store Gets New Owner",
+        "story": "There's a toy store you love, and guess what? It has a new owner! This means the store might have new toys, change how it looks, or even have more sales. It's exciting to see what will happen next!",
+        "storyBig": "A major toy retailer has been sold to a new owner, which could bring changes in product offerings, store layout, and pricing strategies. Consumers might see more diverse products, new store designs, and potentially better deals.",
+        "think": "What changes would you like to see at your favorite toy store?",
+        "bull": "New owners might bring exciting changes and new toys!",
+        "bear": "The new owner might change things you liked about the store.",
         "impacts": {
-            "PIXL": 5
+            "BLOK": 3,
+            "PIXL": 2,
+            "PLSH": 1
         }
     },
     {
-        "rss": "Boots has a new owner: Three ways it could affect you",
-        "emoji": "🤝",
+        "rss": "Burnham promises to curb non-compete rules in job contracts",
+        "emoji": "🔒",
         "type": "company",
-        "title": "BLOK Toy Bricks Gets New Owner",
-        "story": "BLOK Toy Bricks has been bought by a big family. They might make changes that could mean new toys or even better prices.",
-        "storyBig": "BLOK Toy Bricks was recently acquired by a prominent family investor, potentially leading to shifts in product offerings and pricing strategies. These changes could impact consumer choices and market competition.",
-        "think": "What changes would you like to see in BLOK Toy Bricks with the new owners?",
-        "bull": "Maybe there will be cool new toys to play with!",
-        "bear": "Sometimes new owners change things that people liked.",
+        "title": "Toy Company Changes Worker Rules",
+        "story": "A toy company is changing rules for their workers. Now, workers can explore new ideas and even start new toy projects more easily. It's like having more freedom to play and create!",
+        "storyBig": "A leading toy company is revising its employment contracts, making it easier for workers to pursue new opportunities. This change allows employees to innovate and potentially start new ventures without previous restrictions.",
+        "think": "Why is it important for workers to have freedom to explore new ideas?",
+        "bull": "More freedom can lead to cool new toys and ideas!",
+        "bear": "Too much freedom might cause some workers to leave.",
         "impacts": {
-            "BLOK": 3
+            "BORD": 2,
+            "RCCR": 1,
+            "KITE": 1
         }
     }
 ]
