@@ -1,1 +1,33 @@
-[{"rss":"UK to invest £100m in 'world first' AI Biosecurity Lab","emoji":"🤖","type":"industry","title":"Big Investment in Robot Safety","story":"A new lab is being built just for robots! They want to make sure robots don't get sick or cause problems. This will help everyone feel safer about having robots around.","storyBig":"A significant investment is being made to construct a biosecurity lab focused on AI technologies. This will enhance safety protocols for robotics industries, potentially boosting confidence in AI applications.","think":"Why is it important to make sure robots are safe?","bull":"This could lead to safer and smarter robots.","bear":"It's a lot of money to spend on just one kind of lab.","impacts":{"ROBO":5,"BOTS":4}},{"rss":"L'Oreal says weight loss drugs are impacting beauty and skincare sales","emoji":"💄","type":"industry","title":"New Trend Affects Beauty Products","story":"People are trying new ways to feel better about themselves, which means they might buy less makeup. Companies have to think of new ways to sell their products!","storyBig":"Recent trends in personal health are influencing beauty product sales. Companies in the beauty industry must adapt their marketing strategies to align with changing consumer preferences.","think":"What other trends might change what people buy?","bull":"This might lead to healthier lifestyle choices.","bear":"Beauty companies might sell less if trends change too much.","impacts":{"CHOC":-2,"TEES":-1}}]
+[
+    {
+        "rss": "Budget to include £1bn for social and affordable housing",
+        "emoji": "🏠",
+        "type": "industry",
+        "title": "New Homes for Everyone!",
+        "story": "In the world of BizKid, a big plan is underway to build more houses so everyone has a cozy place to live. This means more families can find homes without spending too much money.",
+        "storyBig": "BizKid World is investing a huge amount to ensure more affordable homes are available to families. This initiative aims to make housing accessible for everyone, boosting the construction industry and helping families secure affordable living spaces.",
+        "think": "Why do you think having affordable homes is important for families?",
+        "bull": "More homes mean more jobs for builders and happier families!",
+        "bear": "Building new homes takes time, and we need to be patient.",
+        "impacts": {
+            "TREE": 2,
+            "LNCH": 3,
+            "GRNS": 1
+        }
+    },
+    {
+        "rss": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+        "emoji": "💄",
+        "type": "industry",
+        "title": "New Trends Change Candy Sales!",
+        "story": "In BizKid World, people are choosing healthier snacks, and this is making candy less popular. Some folks are trying new things to stay healthy, which means candy makers are thinking of fun ways to get kids excited about sweets again!",
+        "storyBig": "In BizKid World, healthier snack choices are impacting candy sales, leading to changes in consumer preferences. Candy makers are exploring innovative strategies to appeal to health-conscious kids while maintaining their sweet treats' popularity.",
+        "think": "What other healthy snacks could candy companies make?",
+        "bull": "Trying new snacks can be fun and healthy!",
+        "bear": "Less candy sales might mean fewer sugary treats to share.",
+        "impacts": {
+            "CNDY": -5,
+            "JUCE": 2
+        }
+    }
+]
