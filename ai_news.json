@@ -1,1 +1,26 @@
-[{"rss":"From Levi's to Primark - the fashion chains selling mended clothes","emoji":"🧵","type":"industry","title":"Old Clothes Get New Life!","story":"Kids are loving clothes with fun patches and bright stitches. Now, some stores are making it cool to wear clothes that are fixed rather than new!","storyBig":"A growing trend is making patched and visibly mended clothes fashionable, encouraging sustainable practices in the fashion industry. This reflects a shift in consumer preferences, where visible repairs are celebrated rather than hidden.","think":"Why might people choose mended clothes over new ones?","bull":"It's great to see people recycling and saving materials.","bear":"Some might still prefer new things because they look perfect.","impacts":{"TEES":5,"CAPS":3}},{"rss":"How video game remakes tap the power of nostalgia","emoji":"🎮","type":"company","title":"Old Games Make a Comeback!","story":"Playing old video games can be exciting because they remind people of fun times. Many game makers are bringing back these old games with new looks!","storyBig":"The resurgence of classic video games showcases the impactful business strategy of leveraging nostalgia. Companies are successfully capturing both old fans and new players by remaking beloved games with modern enhancements.","think":"Why do people enjoy playing games they played a long time ago?","bull":"Remaking old games can bring joy to new players and old fans.","bear":"If games are too old, they might not feel fun to everyone.","impacts":{"PIXL":4}}]
+[
+    {
+        "rss":"US tech stocks see sharp falls as AI spending nears $1tn",
+        "emoji":"📉",
+        "type":"industry",
+        "title":"Tech Toys Take a Tumble",
+        "story":"In the world of high-tech toys, some companies are spending a lot on new gadgets, which is making their toy robots and VR goggles a bit wobbly in the market.",
+        "storyBig":"Tech companies are investing heavily in artificial intelligence, leading to an industry-wide decline in stock prices as investors worry about the sustainability of this spending trend.",
+        "think":"What could happen if companies spend too much on new technology?",
+        "bull":"New gadgets can make games more exciting.",
+        "bear":"Spending a lot might make some toys too pricey.",
+        "impacts":{"ROBO":-5,"VRVR":-4}
+    },
+    {
+        "rss":"How video game remakes tap the power of nostalgia",
+        "emoji":"🎮",
+        "type":"industry",
+        "title":"Old Games Make a Comeback!",
+        "story":"Video game companies are bringing back old games that kids and parents loved. It's like playing your favorite game with new surprises!",
+        "storyBig":"Video game developers are capitalizing on nostalgia by releasing remakes of classic games, engaging both new players and those who played the originals, leading to increased sales and market interest.",
+        "think":"Why do you think people enjoy playing old games again?",
+        "bull":"Remakes can bring fun and familiar games back to life.",
+        "bear":"If too many old games are remade, new ideas might be missed.",
+        "impacts":{"PIXL":3}
+    }
+]
