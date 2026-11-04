@@ -1,6 +1,32 @@
 ```json
 [
-    {"rss":"UK and EU agree draft deal to scrap Brexit red tape over food exports","emoji":"🍏","type":"industry","title":"Fast Food Shipping Deal","story":"Food is being sent faster than ever! A new deal means fewer rules for sending food between places, making it quicker for everyone to get their snacks and meals.","storyBig":"A recent agreement has streamlined the food export process, reducing regulatory obstacles. This means food companies can ship their products more efficiently and cost-effectively, benefiting both producers and consumers.","think":"Why is it important for food to travel quickly from farms to stores?","bull":"With faster shipping, more people can enjoy fresh products.","bear":"Too much speed might mean less time to check for quality.","impacts":{"CRNC":4,"PZZA":3,"CNDY":2}},
-    {"rss":"Drivers may get compensation offers before car finance saga ends","emoji":"🚗","type":"company","title":"Toy Car Trouble Fix","story":"Toy car makers are helping kids get their toys back on track. If you had trouble with your toy car, you might get a new one faster now!","storyBig":"The RC car company has decided to offer early compensation to those affected by the recent issues, ensuring customer satisfaction and loyalty. This strategic move aims to resolve any concerns promptly and maintain trust.","think":"Why is it important for companies to fix problems quickly?","bull":"Getting a new toy car fast makes kids happy!","bear":"Some kids might have to wait a bit longer for fixes.","impacts":{"RCCR":3}}
+    {
+        "rss": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+        "emoji": "🥣",
+        "type": "company",
+        "title": "CRNC Cereal Makes Quiet Changes",
+        "story": "CRNC, the cereal company, changed the recipe for their Rice Pops. Now, they don't make as much noise in milk, and some kids aren't happy.",
+        "storyBig": "CRNC, a major player in the cereal industry, recently altered the recipe for their popular Rice Pops cereal. This change resulted in less sound, which has led to consumer dissatisfaction and potential brand perception issues.",
+        "think": "Why is it important for companies to listen to feedback from their customers?",
+        "bull": "Trying new things might make the cereal healthier.",
+        "bear": "If people don't like the change, they might stop buying Rice Pops.",
+        "impacts": {
+            "CRNC": -3
+        }
+    },
+    {
+        "rss": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+        "emoji": "📱",
+        "type": "industry",
+        "title": "WTCH Smartwatches Running Low",
+        "story": "WTCH smartwatches are super popular, but they might run out before the holidays. Lots of people want them, but the company can't make enough right now.",
+        "storyBig": "The demand for WTCH smartwatches is exceeding the company's production capacity, leading to potential shortages during the peak holiday season. This supply constraint could impact sales and customer satisfaction.",
+        "think": "What happens when a lot of people want something, but it's hard to find?",
+        "bull": "The popularity of WTCH shows how cool their products are.",
+        "bear": "If WTCH can't meet demand, some customers might choose different brands.",
+        "impacts": {
+            "WTCH": 5
+        }
+    }
 ]
 ```
