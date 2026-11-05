@@ -1,32 +1,26 @@
-```json
 [
+    {
+        "rss": "Interest rates hiked to 4% in first increase in over three years",
+        "emoji": "📈",
+        "type": "industry",
+        "title": "Cost of Borrowing Increases for Toymakers",
+        "story": "Toymakers need money to make more toys, and they often borrow it. But now, the cost to borrow money is going up, which means making toys could get more expensive.",
+        "storyBig": "Higher interest rates mean it's more expensive for toy companies to finance their operations. This might lead to increased costs in toy production, affecting prices and profit margins.",
+        "think": "How do higher costs for toy companies affect the prices you see in stores?",
+        "bull": "Higher interest rates might encourage toy companies to find creative ways to save money.",
+        "bear": "Increased borrowing costs could lead to higher prices for toys.",
+        "impacts": {"BLOK": 2, "PIXL": 2, "PLSH": 2, "BORD": 2}
+    },
     {
         "rss": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
         "emoji": "🥣",
         "type": "company",
-        "title": "CRNC Cereal Makes Quiet Changes",
-        "story": "CRNC, the cereal company, changed the recipe for their Rice Pops. Now, they don't make as much noise in milk, and some kids aren't happy.",
-        "storyBig": "CRNC, a major player in the cereal industry, recently altered the recipe for their popular Rice Pops cereal. This change resulted in less sound, which has led to consumer dissatisfaction and potential brand perception issues.",
-        "think": "Why is it important for companies to listen to feedback from their customers?",
-        "bull": "Trying new things might make the cereal healthier.",
-        "bear": "If people don't like the change, they might stop buying Rice Pops.",
-        "impacts": {
-            "CRNC": -3
-        }
-    },
-    {
-        "rss": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-        "emoji": "📱",
-        "type": "industry",
-        "title": "WTCH Smartwatches Running Low",
-        "story": "WTCH smartwatches are super popular, but they might run out before the holidays. Lots of people want them, but the company can't make enough right now.",
-        "storyBig": "The demand for WTCH smartwatches is exceeding the company's production capacity, leading to potential shortages during the peak holiday season. This supply constraint could impact sales and customer satisfaction.",
-        "think": "What happens when a lot of people want something, but it's hard to find?",
-        "bull": "The popularity of WTCH shows how cool their products are.",
-        "bear": "If WTCH can't meet demand, some customers might choose different brands.",
-        "impacts": {
-            "WTCH": 5
-        }
+        "title": "CRNC Quietens Its Crunch",
+        "story": "CRNC, the cereal maker, changed its recipe, and now the cereal doesn't crunch as loudly. Some people miss the big crunch, but others like the new taste.",
+        "storyBig": "CRNC's recent recipe alteration has led to a quieter cereal, sparking mixed reactions. While some consumers appreciate the change, others prefer the traditional crunch, affecting product reception.",
+        "think": "Why do you think companies change their recipes even if customers like the old ones?",
+        "bull": "New recipes might attract new fans and boost sales.",
+        "bear": "Changing a popular formula could upset loyal customers.",
+        "impacts": {"CRNC": -3}
     }
 ]
-```
