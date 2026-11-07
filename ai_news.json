@@ -1,1 +1,26 @@
-[{"rss":"How does it affect me if share prices fall?","emoji":"📉","type":"industry","title":"Why Toy Prices Might Change","story":"When toy companies see stock prices fall, they might change their prices too. This can affect the cost of your favorite toys, like BLOK or PLSH.","storyBig":"A drop in stock prices for toy companies can lead to adjustments in product pricing. This affects consumer spending and the overall market valuation of companies like BLOK or PLSH.","think":"What would you do if your favorite toy's price went up?","bull":"Lower stock prices might mean sales and discounts.","bear":"Higher prices could make it harder to buy toys.","impacts":{"BLOK":-4,"PLSH":-3}},{"rss":"Interest rates hiked to 4% in first increase in over three years","emoji":"🏦","type":"industry","title":"Interest Rates Rise, Costs Change","story":"When interest rates go up, the cost of borrowing money goes up too. This means buying big things, like houses or cars, can become more expensive.","storyBig":"An increase in interest rates makes loans more expensive, impacting consumer spending and saving behavior. This shift can affect industries like BIKE or DLVR, where financing plays a role.","think":"How do you decide when something is too expensive to buy?","bull":"Higher rates can mean more money earned from savings.","bear":"It can cost more to borrow money for big purchases.","impacts":{"BIKE":-2,"DLVR":-3}}]
+[
+    {
+        "rss": "AI stocks climb after trillions wiped from market values",
+        "emoji": "🚀",
+        "type": "industry",
+        "title": "Robot Chip Shares on the Rise",
+        "story": "Robot chips are getting more popular again! People are buying them because they're excited about new robots. This makes companies that make robot chips happy.",
+        "storyBig": "After a period of declining interest, the market for robot chips is bouncing back as investors become optimistic about future innovations in robotics technology. This renewed interest has led to an uptick in share prices of companies producing these chips.",
+        "think": "What do you think makes people excited to buy robot chips?",
+        "bull": "New robots could be super fun and useful!",
+        "bear": "What if new robots aren't as good as expected?",
+        "impacts": {"BOTS": 5}
+    },
+    {
+        "rss": "Interest rates hiked to 4% in first increase in over three years",
+        "emoji": "📈",
+        "type": "industry",
+        "title": "Interest Rates Go Up",
+        "story": "Interest rates are like how much extra you pay when you borrow money. They've gone up, and that could make things more expensive. It's important to think about how we spend money.",
+        "storyBig": "The central bank has increased interest rates to 4% for the first time in years, impacting the cost of borrowing money for various needs. This change may influence consumer spending and saving behaviors.",
+        "think": "How do higher interest rates change the way families spend money?",
+        "bull": "Saving money might earn more interest now!",
+        "bear": "Things bought with loans might cost more.",
+        "impacts": {"GRNS": -3, "LNCH": -2}
+    }
+]
