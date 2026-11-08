@@ -1,26 +1,26 @@
 [
     {
-        "rss": "AI stocks climb after trillions wiped from market values",
-        "emoji": "🚀",
+        "rss": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "emoji": "🚫",
         "type": "industry",
-        "title": "Robot Chip Shares on the Rise",
-        "story": "Robot chips are getting more popular again! People are buying them because they're excited about new robots. This makes companies that make robot chips happy.",
-        "storyBig": "After a period of declining interest, the market for robot chips is bouncing back as investors become optimistic about future innovations in robotics technology. This renewed interest has led to an uptick in share prices of companies producing these chips.",
-        "think": "What do you think makes people excited to buy robot chips?",
-        "bull": "New robots could be super fun and useful!",
-        "bear": "What if new robots aren't as good as expected?",
-        "impacts": {"BOTS": 5}
+        "title": "Kids' Online Marketplace Ban",
+        "story": "The government is thinking about stopping kids from using certain online marketplaces. They want to make sure kids are safe and not buying things they shouldn't.",
+        "storyBig": "Officials are considering a ban on children under 16 from accessing specific online marketplaces. The decision is aimed at ensuring the safety of younger internet users by regulating where they can make purchases.",
+        "think": "Why do you think it's important for kids to be safe online?",
+        "bull": "Banning certain platforms might keep kids safer.",
+        "bear": "Kids might miss out on fun and learning opportunities.",
+        "impacts": {"APPS": 3}
     },
     {
-        "rss": "Interest rates hiked to 4% in first increase in over three years",
-        "emoji": "📈",
+        "rss": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+        "emoji": "📉",
         "type": "industry",
-        "title": "Interest Rates Go Up",
-        "story": "Interest rates are like how much extra you pay when you borrow money. They've gone up, and that could make things more expensive. It's important to think about how we spend money.",
-        "storyBig": "The central bank has increased interest rates to 4% for the first time in years, impacting the cost of borrowing money for various needs. This change may influence consumer spending and saving behaviors.",
-        "think": "How do higher interest rates change the way families spend money?",
-        "bull": "Saving money might earn more interest now!",
-        "bear": "Things bought with loans might cost more.",
-        "impacts": {"GRNS": -3, "LNCH": -2}
+        "title": "Fluffy Toy Craze Fizzling Out",
+        "story": "Lots of kids loved the fluffy toy monsters, but now fewer people are buying them. The company is seeing less money because the craze is fading away.",
+        "storyBig": "The hype around the fluffy collectible monsters has significantly decreased, leading to a decline in sales for the company. The waning interest in these toys is impacting company revenue.",
+        "think": "Why do you think some toy fads don't last very long?",
+        "bull": "It's a chance to try new and exciting toys!",
+        "bear": "The company might struggle if sales keep dropping.",
+        "impacts": {"PLSH": -5}
     }
 ]
