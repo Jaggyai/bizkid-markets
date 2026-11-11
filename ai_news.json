@@ -1,1 +1,26 @@
-[{"rss":"Anthropic heads for $1.3 trillion valuation in major stock market listing","emoji":"📈","type":"industry","title":"Robo Factory's Big Stock Market Debut","story":"Robo Factory is selling its company shares. This means people can buy a part of the company.","storyBig":"Robo Factory is planning a major IPO, offering shares priced between $70 and $78. This could value the company at $1.3 trillion, marking a significant moment in the stock market.","think":"What does it mean to own a share of a company?","bull":"Many people want to invest in Robo Factory.","bear":"The share price might be too high for some.","impacts":{"ROBO":5,"BOTS":3}},{"rss":"Sales of tinned food and bottled water jump after 'Be Ready' campaign launch","emoji":"🛒","type":"industry","title":"Be Prepared Campaign Boosts Snack Sales","story":"A campaign told people to be ready for anything. Now, more people are buying snacks and drinks.","storyBig":"The 'Be Ready' campaign has significantly increased the sales of essential goods, as families stock up on snacks, drinks, and other supplies, anticipating possible emergencies.","think":"Why do people buy more things when they want to be ready?","bull":"People are buying more snacks from stores.","bear":"Stores might run out if too many people buy at once.","impacts":{"CNDY":4,"CRNC":3,"JUCE":2}}]
+[
+    {
+        "rss": "Christmas toy rush being driven by squishies and building sets",
+        "emoji": "🧸",
+        "type": "industry",
+        "title": "Toy Boom: Squishies and Bricks Soar!",
+        "story": "Kids are going wild for squishy toys and building blocks this year. These toys are flying off the shelves. People are talking about how much time kids spend playing with screens versus playing with these cool, creative toys.",
+        "storyBig": "The toy industry is experiencing a significant boost, with squishy toys and building sets leading the charge. This trend comes amid ongoing discussions about balancing screen time with more traditional, hands-on play experiences.",
+        "think": "Why do you think kids like squishy toys and building blocks so much?",
+        "bull": "Playing with these toys lets you use your imagination.",
+        "bear": "Some might prefer playing video games instead.",
+        "impacts": {"BLOK": 5, "PLSH": 4, "PIXL": -3}
+    },
+    {
+        "rss": "US inflation higher than expected in October - here's what is happening with prices",
+        "emoji": "📈",
+        "type": "industry",
+        "title": "Prices Climb: What It Means for You",
+        "story": "Things are getting a bit more expensive. The prices of food, energy, and other items are going up. This means you might need more money to buy your favorite treats or toys.",
+        "storyBig": "Inflation rates have increased, leading to higher costs for essentials like food and energy. This economic trend affects purchasing power and may influence spending habits.",
+        "think": "What can you do if your favorite candy gets more expensive?",
+        "bull": "It’s a chance to learn about saving and budgeting.",
+        "bear": "Things might cost more, so you can’t buy as much with your allowance.",
+        "impacts": {"CNDY": -2, "CRNC": -2, "FIZZ": -2}
+    }
+]
