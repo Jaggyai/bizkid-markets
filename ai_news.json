@@ -1,1 +1,26 @@
-[{"rss":"Microsoft says services fully restored after day-long global outage","emoji":"🔧","type":"industry","title":"Big Tech Glitch Affects Kids Apps","story":"Many kids couldn't use their favorite apps because of a big glitch. But now, everything is back to normal!","storyBig":"A major tech outage disrupted several popular apps used by kids for learning and fun. These services are now fully operational after a day-long effort to resolve the issue.","think":"What would you do if your favorite app stopped working?","bull":"Tech companies work hard to fix problems quickly.","bear":"Tech problems can happen anytime and interrupt fun activities.","impacts":{"APPS":5}},{"rss":"Christmas toy rush being driven by squishies and building sets","emoji":"🧸","type":"industry","title":"Toy Sales Soar with Fun Trends","story":"This year, kids are loving squishy toys and building sets! It's a big hit for toy stores.","storyBig":"The toy industry is experiencing a surge in sales, driven by popular items like squishy toys and building sets. These toys are captivating children's interest, boosting sales significantly.","think":"Why do you think certain toys become very popular?","bull":"New popular toys make playtime exciting!","bear":"Popular toys might sell out quickly, so plan ahead.","impacts":{"BLOK":3,"PLSH":4}}]
+[
+    {
+        "rss": "Beauty advent calendars can cost hundreds but are they value for money?",
+        "emoji": "🎁",
+        "type": "company",
+        "title": "Candy Calendars: Are They Worth It?",
+        "story": "Candy calendars are fun and popular during holidays. They have surprises inside but can be expensive. Do you think they're worth spending your money on?",
+        "storyBig": "Candy calendars have become a staple holiday item, offering a sweet surprise each day. However, the price of these calendars can be quite high. It's important to consider if the joy they bring is worth the cost.",
+        "think": "Would you buy a candy calendar if you had to save up for it?",
+        "bull": "Candy calendars make every day feel special!",
+        "bear": "What if the candy inside isn't your favorite?",
+        "impacts": {"CNDY": 5}
+    },
+    {
+        "rss": "Microsoft says services fully restored after day-long global outage",
+        "emoji": "🌐",
+        "type": "industry",
+        "title": "Tech Trouble: Games Back Online!",
+        "story": "A big computer problem made some games stop working for a whole day! Now, everything is fixed, and kids can play their favorite games again.",
+        "storyBig": "A significant software outage caused disruptions for many users, affecting access to various tech services. The issue has now been resolved, and normal operations have resumed.",
+        "think": "How would you feel if you couldn't play your favorite game for a day?",
+        "bull": "All games are back, so playtime is on!",
+        "bear": "A day without games can be really boring.",
+        "impacts": {"PIXL": -3, "APPS": -2}
+    }
+]
