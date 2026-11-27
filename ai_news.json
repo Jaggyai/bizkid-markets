@@ -1,1 +1,26 @@
-[{"rss":"Energy bills to rise by 26% from January after gas prices surge","emoji":"💡","type":"industry","title":"Energy Bills to Jump 26%","story":"Energy bills are going up! Starting in January, families will pay more for their electricity. This means using less energy at home might save money.","storyBig":"Gas prices have surged, leading to a projected 26% increase in energy bills from January. Consumers will need to manage energy consumption carefully to mitigate these rising costs.","think":"How can you save energy at home to help your family?","bull":"Using less energy can help the planet.","bear":"Higher bills might mean less money for other fun things.","impacts":{"SOLR":5,"RCYC":3}},{"rss":"Millions of people to see average monthly mortgage payments rise by £100","emoji":"🏡","type":"regional","title":"Home Costs Going Up","story":"More people will have to pay extra for their homes each month. It's like when your piggy bank gets a bit lighter!","storyBig":"Millions of homeowners are facing increased monthly payments as their mortgage rates adjust. This will tighten household budgets and may affect spending in other areas.","think":"What might families do to adjust their budgets when bills go up?","bull":"Learning to save money is a fun challenge!","bear":"Families might have less money for treats and toys.","impacts":{"LNCH":-2,"BKPK":-3,"MOVI":-1}}]
+[
+    {
+        "rss": "Why is there a shortage of 'wizard' elevator mechanics?",
+        "emoji": "🧙‍♂️",
+        "type": "industry",
+        "title": "Why Aren't There Enough Toy Fixers?",
+        "story": "There aren't enough people to fix toy bricks and video games, even though the pay is good. Kids love these toys, but not enough people are learning to fix them.",
+        "storyBig": "There's a labor shortage in the toy repair industry, particularly affecting toy bricks and video game maintenance. Despite competitive wages, the industry struggles to attract skilled workers.",
+        "think": "Why do you think some jobs are harder to fill than others?",
+        "bull": "Lots of jobs are available for toy fixers, which means a great opportunity to learn and earn!",
+        "bear": "Without enough fixers, toy repairs could take longer, leaving toys broken for a while.",
+        "impacts": {"BLOK":-4,"PIXL":-3}
+    },
+    {
+        "rss": "My self-care ritual is a meal at a fancy restaurant - on my own",
+        "emoji": "🍽️",
+        "type": "industry",
+        "title": "Eating Pizza Alone is Cool Now!",
+        "story": "More kids are eating pizza by themselves, and they love it! This trend is making pizza restaurants very happy.",
+        "storyBig": "Solo dining has become a popular trend, particularly among younger consumers, positively impacting pizza restaurant sales as more customers choose to enjoy meals alone.",
+        "think": "Why do you think some people enjoy eating alone?",
+        "bull": "Eating alone can be fun because you get to choose everything you want!",
+        "bear": "If everyone eats alone, family and friends might miss spending time together over meals.",
+        "impacts": {"PZZA":4}
+    }
+]
